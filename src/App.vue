@@ -7,7 +7,7 @@ import PongCanvas from './components/PongCanvas.vue'
     <h1 class="text-4xl font-bold my-4">
       Pong Builder - CS320
     </h1>
-    <div class="bg-blue-50 border-black border-2">
+    <div>
       <PongCanvas height="600" width="1000" />
     </div>
   </div>
